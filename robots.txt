@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://othellogame.homes/sitemap.xml
